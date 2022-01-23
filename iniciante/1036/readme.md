@@ -21,7 +21,7 @@ Se não houver possibilidade de calcular as raízes, apresente a mensagem "Impos
 
 # 📚 Solução
 
-Para resolver esse desafio basta apenas aplicar a formula de Bhaskara.
+Para resolver esse desafio, basta apenas aplicar a formula de Bhaskara.
 
 ![image](/img/1036.webp)
 
