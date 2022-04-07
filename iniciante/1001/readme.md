@@ -21,3 +21,9 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável *
 # 📚 Solução
 
 Neste desafio salvamos os valores de **A** e **B** em variáveis e fazemos a soma para imprimir.
+
+## Resolvido em
+
+✅ JavaScript
+✅ Dart 2.9
+✅ Python 3.9
