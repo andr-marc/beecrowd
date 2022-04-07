@@ -23,3 +23,9 @@ Apresentar a mensagem "A=" seguido pelo valor da variável **area**, conforme ex
 # 📚 Solução
 
 Neste desafio salvamos o valor de **raio**, elevamos a 2 e multiplicamos por π. Consideramos 4 casas decimais e, por fim, resultado é impresso no terminal.
+
+## Resolvido em
+
+✅ JavaScript
+✅ Dart 2.9
+✅ Python 3.9
