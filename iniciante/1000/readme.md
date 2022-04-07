@@ -20,4 +20,10 @@ Você deve imprimir a mensagem "**Hello World!**" e em seguida o final de linha,
 
 # 📚 Solução
 
-Precisamos apenas usar o `console.log()` para exibir o texto.
+Precisamos apenas imprimir o texto.
+
+## Resolvido em
+
+✅ JavaScript
+✅ Dart 2.9
+✅ Python 3.9
