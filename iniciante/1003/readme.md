@@ -21,3 +21,9 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 # 📚 Solução
 
 Neste desafio salvamos os dois valores em variáveis e fazemos a soma para imprimir.
+
+## Resolvido em
+
+✅ JavaScript
+✅ Dart 2.9
+✅ Python 3.9
