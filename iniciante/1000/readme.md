@@ -25,5 +25,7 @@ Precisamos apenas imprimir o texto.
 ## Resolvido em
 
 ✅ JavaScript
+
 ✅ Dart 2.9
+
 ✅ Python 3.9

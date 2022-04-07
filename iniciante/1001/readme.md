@@ -25,5 +25,7 @@ Neste desafio salvamos os valores de **A** e **B** em variáveis e fazemos a som
 ## Resolvido em
 
 ✅ JavaScript
+
 ✅ Dart 2.9
+
 ✅ Python 3.9

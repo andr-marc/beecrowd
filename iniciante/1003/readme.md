@@ -25,5 +25,7 @@ Neste desafio salvamos os dois valores em variáveis e fazemos a soma para impri
 ## Resolvido em
 
 ✅ JavaScript
+
 ✅ Dart 2.9
+
 ✅ Python 3.9

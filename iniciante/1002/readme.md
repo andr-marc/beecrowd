@@ -27,5 +27,7 @@ Neste desafio salvamos o valor de **raio**, elevamos a 2 e multiplicamos por π.
 ## Resolvido em
 
 ✅ JavaScript
+
 ✅ Dart 2.9
+
 ✅ Python 3.9
