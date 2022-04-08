@@ -21,3 +21,11 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 # 📚 Solução
 
 Neste desafio apresentamos o número do funcionário e multiplicamos o valor da hora e a quantidade de horas trabalhadas.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
