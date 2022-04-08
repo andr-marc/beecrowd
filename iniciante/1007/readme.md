@@ -21,3 +21,11 @@ Imprima a mensagem **DIFERENCA** com todas as letras maiúsculas, conforme exemp
 # 📚 Solução
 
 Neste desafio salvamos os quatro valores em variáveis e fazemos o cálculo de acordo com a formula apresentada na questão.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
