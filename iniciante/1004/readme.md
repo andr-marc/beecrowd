@@ -21,3 +21,11 @@ Imprima a mensagem "PROD" e a variável **PROD** conforme exemplo abaixo, com um
 # 📚 Solução
 
 Neste desafio salvamos os dois valores em variáveis e fazemos a multiplicação para imprimir.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
