@@ -21,3 +21,11 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 5 d�
 # 📚 Solução
 
 Neste desafio salvamos os dois valores em variáveis e fazemos o cálculo da média ponderada.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
