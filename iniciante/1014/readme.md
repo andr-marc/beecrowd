@@ -20,4 +20,12 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas apó
 
 # 📚 Solução
 
-Só é preciso dividir o valor da quilometragem pelo valor do litro de combustivel.
+Só é preciso dividir o valor da quilometragem pelo valor do litro de combustível.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
