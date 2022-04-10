@@ -23,3 +23,11 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 Para essa questão, cada linha é salvo em uma variável, e cada linha ainda separa cada informação ao encontrar um espaço, como resultado a variável de um dos produtos vai estar no seguinte formato: `['12', '1', '5.30']`.
 
 Tendo as informações devidamente separadas, multiplicamos o segundo item do produto e o terceiro, referentes a quantidade e valor unitário. Tendo os dois produtos somados, basta imprimir o valor.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
