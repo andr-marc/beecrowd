@@ -23,3 +23,11 @@ A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, 
 # 📚 Solução
 
 Para essa questão, apenas foi necessário armazenar a variável e aplicar na formula de volume esférico.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
