@@ -21,3 +21,11 @@ Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 # 📚 Solução
 
 Neste desafio apresentamos o salário do funcionário somado a 15% do total vendido pelo funcionário.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
