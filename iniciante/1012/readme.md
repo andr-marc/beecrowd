@@ -26,3 +26,11 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 # 📚 Solução
 
 Para essa questão, os valores são separados e aplicados nas formulas de cada forma geométrica pedida, por fim os resultados são impressos.
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
