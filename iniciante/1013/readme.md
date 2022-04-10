@@ -24,3 +24,11 @@ Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maio
 # 📚 Solução
 
 Nesta questão, passamos por todos os valores, salvando o calculo entre 2 números em uma variável auxiliar. No fim do calculo, refazemos o calculo com o maior número encontrado entre os dois primeiros e o ultimo número restante
+
+## Resolvido em
+
+✅ JavaScript
+
+✅ Dart 2.9
+
+✅ Python 3.9
