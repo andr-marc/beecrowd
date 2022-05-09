@@ -29,3 +29,5 @@ Precisamos apenas imprimir o texto.
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
