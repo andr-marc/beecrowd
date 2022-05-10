@@ -29,3 +29,5 @@ Neste desafio salvamos os dois valores em variáveis e fazemos a soma para impri
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
