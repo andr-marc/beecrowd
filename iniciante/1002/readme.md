@@ -33,3 +33,5 @@ Neste desafio salvamos o valor de **raio**, elevamos a 2 e multiplicamos por π.
 ✅ Python 3.9
 
 ✅ Java 14
+
+✅ C#
