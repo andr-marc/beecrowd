@@ -2,7 +2,7 @@
 
 **Veja no site do [desafio](https://www.beecrowd.com.br/judge/pt/problems/view/1007)**
 
-Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A _ B - C _ D).
+Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A \* B - C \* D).
 
 ### Entrada
 
@@ -29,3 +29,5 @@ Neste desafio salvamos os quatro valores em variáveis e fazemos o cálculo de a
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
