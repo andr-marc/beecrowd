@@ -2,7 +2,7 @@
 
 **Veja no site do [desafio](https://www.beecrowd.com.br/judge/pt/problems/view/1005)**
 
-Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável **PROD**. A seguir mostre a variável **PROD** com mensagem correspondente.
+Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 
 ### Entrada
 
@@ -29,3 +29,5 @@ Neste desafio salvamos os dois valores em variáveis e fazemos o cálculo da mé
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
