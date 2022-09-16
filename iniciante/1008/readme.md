@@ -29,3 +29,5 @@ Neste desafio apresentamos o número do funcionário e multiplicamos o valor da 
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
