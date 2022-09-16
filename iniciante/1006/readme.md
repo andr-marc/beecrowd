@@ -29,3 +29,5 @@ Neste desafio salvamos os três valores em variáveis e fazemos o cálculo da m�
 ✅ Dart 2.9
 
 ✅ Python 3.9
+
+✅ Java 14
